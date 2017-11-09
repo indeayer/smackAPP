@@ -10,6 +10,7 @@
 		513BA2BD1FB1C8DC005F3F7C /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 513BA2BB1FB1C8DB005F3F7C /* SWRevealViewController.m */; };
 		513BA2C21FB2D32B005F3F7C /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513BA2C11FB2D32B005F3F7C /* ChatVC.swift */; };
 		513BA2C41FB2D33E005F3F7C /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513BA2C31FB2D33E005F3F7C /* ChannelVC.swift */; };
+		5182A8DD1FB438240003F54A /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5182A8DC1FB438240003F54A /* GradientView.swift */; };
 		51B8AB351FB19F4C0017F815 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B8AB341FB19F4C0017F815 /* AppDelegate.swift */; };
 		51B8AB371FB19F4C0017F815 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B8AB361FB19F4C0017F815 /* ViewController.swift */; };
 		51B8AB3A1FB19F4C0017F815 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B8AB381FB19F4C0017F815 /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 		513BA2BC1FB1C8DB005F3F7C /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SWRevealViewController.h; path = "SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h"; sourceTree = SOURCE_ROOT; };
 		513BA2C11FB2D32B005F3F7C /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		513BA2C31FB2D33E005F3F7C /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		5182A8DC1FB438240003F54A /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		51B8AB311FB19F4C0017F815 /* smackApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smackApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51B8AB341FB19F4C0017F815 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		51B8AB361FB19F4C0017F815 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 		513BA2BF1FB2D2B5005F3F7C /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5182A8DC1FB438240003F54A /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				513BA2C21FB2D32B005F3F7C /* ChatVC.swift in Sources */,
 				51B8AB371FB19F4C0017F815 /* ViewController.swift in Sources */,
+				5182A8DD1FB438240003F54A /* GradientView.swift in Sources */,
 				51B8AB351FB19F4C0017F815 /* AppDelegate.swift in Sources */,
 				513BA2BD1FB1C8DC005F3F7C /* SWRevealViewController.m in Sources */,
 				513BA2C41FB2D33E005F3F7C /* ChannelVC.swift in Sources */,
